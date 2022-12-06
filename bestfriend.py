@@ -1,2 +1,4 @@
-first_name = input("What is your name? ")
-print(f"Hello {first_name}")
+Answer = input("What is lifes greatest lie? ")
+if (Answer == "Innocence my brother"):
+     print ("Welcome brother   -Blood Brotherhood Sanctuary Discovered-")
+else: print ("You are not welcome here")
